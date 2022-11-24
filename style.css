@@ -1,0 +1,40 @@
+.korinish{
+    width: 130px;
+    height: 150px;
+    background-color: coral;
+    border-color: 1px solid chocolate;
+    position:absolute; 
+    top: 20%;
+    left: 39%;
+    border-radius: 20%;
+}
+.ekran{
+    width: 55%;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    height: 30px;
+    caret-color: white;
+    border-radius: 9%;
+    border: 1px solid floralwhite;
+    text-align: center;
+    font-size: 20px;
+}
+.tugma{
+   position: absolute;
+   top: 47%;
+   left: 37%;
+   width: 35px;
+   height: 35px;
+   border-radius: 50%;
+   background-color: gray;
+}
+.tugma2{
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: burlywood;
+}
